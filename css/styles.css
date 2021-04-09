@@ -1,0 +1,55 @@
+body {
+    background-color:coral
+}
+
+.pageHeader {
+    text-align: center;
+    border: solid 5px black;
+    margin: 10px 100px;
+    background-color: darkgray;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.senator__picture {
+    text-align: center;
+}
+
+.senator__info {
+    background-color:darkgray;
+    border: 1px solid black;
+    margin: 10px 50px;
+}
+
+.senator__info__list {
+    margin-left: 40%;
+}
+
+.info {
+    margin: auto;
+}
+
+.senator__committees {
+    background-color: darkgray;
+    border: 1px solid black;
+    margin: 10px 50px;
+}
+.committees {
+    text-align: center;
+    border: 1px solid black;
+}
+
+.senator__bills {
+    display: flex;
+    background-color: darkgray;
+    flex-flow: column wrap;
+    text-align: center;
+    border: 1px solid black;
+    margin: 10px 50px;
+}
